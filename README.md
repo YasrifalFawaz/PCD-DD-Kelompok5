@@ -54,11 +54,3 @@ Proyek ini adalah aplikasi desktop sederhana yang dikembangkan menggunakan PyQt5
     python program.py
     ```
 5.  Setelah aplikasi terbuka, klik tombol "Pilih Gambar Pisang" untuk mengunggah gambar dan melihat hasil klasifikasi.
-
-## Konsep Teknis
-
-* **Pemrosesan Citra Digital:** Pemanfaatan OpenCV untuk operasi dasar seperti resizing, konversi ruang warna, segmentasi, dan morfologi citra.
-* **Ruang Warna HSV:** Digunakan karena lebih efektif dalam memisahkan informasi warna dari intensitas cahaya, membuatnya robust terhadap variasi pencahayaan.
-* **K-Nearest Neighbors (K-NN):** Algoritma klasifikasi berbasis instans yang memprediksi kelas objek baru berdasarkan mayoritas kelas dari tetangga-tetangga terdekatnya dalam ruang fitur.
-* **Normalisasi Fitur (StandardScaler):** Penting untuk K-NN agar semua fitur memiliki bobot yang setara dalam perhitungan jarak.
-* **PyQt5:** Digunakan untuk membangun antarmuka pengguna grafis (GUI) aplikasi desktop.
