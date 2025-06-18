@@ -19,7 +19,7 @@ Proyek ini adalah aplikasi desktop sederhana yang dikembangkan menggunakan PyQt5
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/yourusername/nama-repo-anda.git]
+    git clone https://github.com/yourusername/nama-repo-anda.git
     cd nama-repo-anda
     ```
 2.  **Instal Dependensi:**
