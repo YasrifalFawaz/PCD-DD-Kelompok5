@@ -1,10 +1,4 @@
-# Klasifikasi Kematangan Pisang Menggunakan Segmentasi HSV dan K-NN
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Contoh+Tampilan+Aplikasi" alt="Contoh Tampilan Aplikasi">
-  <br>
-  <i>(Ganti placeholder ini dengan screenshot aplikasi Anda)</i>
-</p>
+# Pendeteksi Tingkat Kematangan Pisang
 
 Proyek ini adalah aplikasi desktop sederhana yang dikembangkan menggunakan PyQt5 dan OpenCV untuk mengklasifikasikan tingkat kematangan pisang. Klasifikasi dilakukan berdasarkan analisis warna pisang menggunakan ruang warna HSV (Hue, Saturation, Value) dan model Machine Learning K-Nearest Neighbors (K-NN).
 
